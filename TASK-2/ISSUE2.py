@@ -1,3 +1,4 @@
+# Importando a biblioteca.
 import cv2
 # Imagem foi aberta.
 imagem = cv2.imread("C:\\Users\\LABIC\\Desktop\\Yosef Lab\\LAPISCO-TASKS-1\\TASK-2\\arara.jpg")
