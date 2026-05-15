@@ -29,5 +29,6 @@ pyplot.subplot(2, 2, 4)
 pyplot.plot(h_n)
 
 pyplot.tight_layout()
+pyplot.savefig(r"C:\Users\yosef\Desktop\Lapiscos -Tasks\Lapsico-Tasks\TASK-19\painel_completo.png", dpi=300)
 pyplot.show()
 
